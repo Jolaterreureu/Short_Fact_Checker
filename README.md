@@ -25,7 +25,7 @@ The report is printed in the terminal and saved in `reports/<date>/` along with 
 ## Setup
 
 ```bash
-git clone https://github.com/<you>/Short_Fact_Checker.git
+git clone https://github.com/Jolaterreureu/Short_Fact_Checker.git
 cd Short_Fact_Checker
 
 brew install ffmpeg            # or: sudo apt install ffmpeg
